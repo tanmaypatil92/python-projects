@@ -1,0 +1,8 @@
+1
+["and", ["or", "C", "B", "A", ["not", "A"]], ["or", ["not", "B"], "B", "A", ["not", "A"]], ["or", "C", ["not", "C"], "A", ["not", "A"], "B"], ["or", ["not", "B"], ["not", "C"], "A", ["not", "A"], "B"], ["or", "C", "B", ["not", "B"], ["not", "A"]], ["or", ["not", "B"], "B", ["not", "A"]], ["or", "C", ["not", "C"], ["not", "B"], ["not", "A"], "B"], ["or", ["not", "B"], ["not", "C"], ["not", "A"], "B"], ["or", "C", "B", "A", ["not", "B"]], ["or", ["not", "B"], "B", "A"], ["or", "C", ["not", "C"], "A", ["not", "B"], "B"], ["or", ["not", "B"], ["not", "C"], "A", "B"], ["or", "C", "B", ["not", "B"]], ["or", ["not", "B"], "B"], ["or", "C", ["not", "C"], ["not", "B"], "B"], ["or", ["not", "B"], ["not", "C"], "B"], ["or", ["not", "B"], "B", "A", ["not", "A"], "C"], ["or", "C", ["not", "C"], "A", ["not", "A"]], ["or", ["not", "B"], ["not", "C"], "A", ["not", "A"], "C"], ["or", "C", ["not", "C"], ["not", "B"], ["not", "A"]], ["or", "C", ["not", "C"], "A", ["not", "B"]], ["or", "C", ["not", "C"], ["not", "B"]]]
+["and", "A", ["or", ["not", "A"], "B"], ["or", ["not", "B"], "C"], ["or", ["not", "B"], "C"]]
+["or", "R", ["not", "B"], "W"]
+["and", "A", ["not", "A"]]
+["not", "P"]
+["and", ["or", "P", ["not", "R"]], ["or", ["not", "Q"], ["not", "R"], "P"]]
+["and", "A", ["or", "B", "C"], ["or", "B", "D"]]
